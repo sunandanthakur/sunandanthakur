@@ -1,5 +1,10 @@
 <div align="center">
-  <h1><strong> 👋🏻Hey! I'm Sunandna Singh </strong></h1>
+  <h1 style="
+    color: #00eaff;
+    text-shadow: 0 0 10px #00eaff, 0 0 20px #00eaff;
+  ">
+    Your Name
+  </h1>
 </div>
 
 
