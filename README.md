@@ -3,7 +3,7 @@
     color: #00eaff;
     text-shadow: 0 0 10px #00eaff, 0 0 20px #00eaff;
   ">
-    Your Name
+    Sunandan Singh
   </h1>
 </div>
 
