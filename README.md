@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRlZTZ2YjBmeGV4MXhsbjBlc2I3dnp1MWQyOGRjOXU0d3l5cGJzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aZVOjzbW8cPDm9PQzP/giphy.gif" width="230" />
+
 
 I am a dedicated **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Express, React, Node.js). I blend creativity with logic to build high-performance web applications. My focus is on **clean code**, **responsive UI/UX**, and **secure backend architecture**.
 
