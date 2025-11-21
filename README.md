@@ -1,144 +1,109 @@
-<h1 align="center" style="color:#00aaff;">Sunandan Singh</h1>
-
-
-
-
-<p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRxdXNlbnNoYzF4bHZkeWQwdjFrMXhnYjdpenJrc3k2NmVsMWJvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="100%" />
-</p>
-
-
-
-
-# 🚀 Full Stack Developer | Builder of Modern Web Experiences
-As a dedicated Full-Stack Developer, I possess robust coding proficiency and an unwavering commitment to constructing pristine, scalable, and user-centric applications. My expertise encompasses the entire software development lifecycle, from conceptual planning and system architecture to front-end engineering, API development, and backend optimization.
-I specialize in creating intuitive, high-performance interfaces that enhance user experience while simultaneously building secure, resilient, and efficient server-side systems. Whether I am refining UI/UX design, optimizing database interactions, or implementing advanced logic and integrations, I approach every challenge with precision, creativity, and a problem-solving mindset.
-Driven by a passion for continuous improvement and clean coding standards, I consistently strive to merge functionality with elegance. I thrive in dynamic environments, collaborate effectively with cross-functional teams, and adapt swiftly to emerging technologies to deliver solutions that are not only functional but future-ready.
-
-
----
-
-## 🔥 About Me
-
-<p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRlZTZ2YjBmeGV4MXhsbjBlc2I3dnp1MWQyOGRjOXU0d3l5cGJzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aZVOjzbW8cPDm9PQzP/giphy.gif" width="400" />
-</p>
-
-- 👨‍💻 I'm a **Full Stack Developer** with strong problem-solving skills.
-- 💉 Currently building a **Medicare Healthcare Website**.
-- 🔫 Looking to collaborate on building a **Gun Store Web Application**.
-- 🌐 I love developing websites that are smooth, stylish, and modern.
-- 🤝 Open to collaborations & exciting projects.
-
----
-
-## 💡 Skills & Technologies
-
-<p align="center">
-<img src="https://tenor.com/bRPBh.gif" alt="Skills Gif" width="400" />
-</p>
-
-### 🖥️ **Languages**
-- Python  
-- C++  
-- JavaScript  
-- PHP  
-
-### 🎨 **Frameworks / Frontend**
-- HTML & CSS  
-- Bootstrap  
-- React.js  
-- Tailwind CSS  
-
-### ⚙️ **Backend / Platforms**
-- Node.js  
-- Express.js  
-- MySQL  
-- MongoDB  
-
-### 🛠️ **Tools**
-- Git & GitHub  
-- VS Code  
-
-### 🧐 **Soft Skills**
-- Problem Solving  
-- Team Player  
-- Project Management  
-- Adaptability  
-
----
-
-## 🧩 Projects I'm Working On
-
-<p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWI2YTZiOWUzeGlsY3VkNmpkdTFoZDViMDJmNmhrNzB3d28yanF0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YOczfjtC0H0IMBKhRf/giphy.gif" width="400" />
-</p>
-
-### 🏥 **Medicare Healthcare Website**
-A modern medical management system with:
-- Patient Dashboard  
-- Appointment Booking  
-- Admin Panel  
-- Doctor Profile System  
-
-### 🛒 **Gun Store Website** *(Looking for collaborators!)*
-- Fully functional ecommerce system  
-- Inventory management  
-- Secure login and admin dashboard  
-- Product filtering & animations  
-
----
-
-## 🔥 My Workflow & Style
-
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVpNHZheDE0OXNkY2F0cGlmeTR0OHljNzN2MHRoNW5za3h0d2U0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9igGG6KxpY0eY0Sr5u/giphy.gif" width="400" />
-</p>
-
-- Write clean and scalable code.  
-- Prioritize beautiful UI/UX.  
-- Focus on performance and security.  
-- Build real-world level full-stack apps.  
-
----
-
-## 🤝 Connect With Me!
-- 💼 GitHub: **SunandanThakur**  
-- 🌍 Open for collaborations  
-- 📩 Feel free to reach out anytime!  
-
----
-
-## 📚 June 2025 Projects
-
-### 🪑 **Furniture Showcasing Website**
-Developed an e-commerce furniture platform enabling seamless product browsing and secure online transactions. Implemented user authentication and product management modules, optimizing backend operations and improving data handling efficiency by **30%**. Integrated a structured database to track user activity and transactions, resulting in faster page responses and a **25% increase in user engagement**.  
-**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, E-commerce.
-
-### ⛅ **Weather Forecast App** 
-Built a real-time weather application with a user-friendly and responsive interface. Integrated the **OpenWeatherMap API** for accurate weather data and implemented both city-based and geolocation-based search. Optimized API handling and loading mechanisms, decreasing page load times by **30%** and improving overall experience.  
-**Tech:** HTML, CSS, JavaScript, Bootstrap, OpenWeatherMap API, Responsive Design.
-
-### 🤖 **Job Search Assistant** 
-Engineered an **AI-driven chatbot** that matches users with job opportunities based on skills and preferences. Designed NLP-powered conversation flows and integrated job listing APIs for real-time job suggestions. Achieved **90% accuracy**, greatly boosting personalization and efficiency.  
-**Tech:** Python, NLP, Chatbot Framework, Job Listing APIs, UI/UX Design.
-
-### 📘 **DSA Training**
-Actively improving Data Structures & Algorithms for stronger problem-solving and system design.
-
-<p align="center">
-<img src="https://tenor.com/mM9zIXYnDOd.gif" width="400" />
-</p>
----
-
-## 📈 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Susu&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Susu&theme=tokyonight" width="48%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&duration=3000&pause=1000&color=00aaff&center=true&vCenter=true&width=435&height=60&lines=Hi,+I'm+Sunandan+Singh;Full+Stack+Developer;MERN+Stack+Specialist;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRxdXNlbnNoYzF4bHZkeWQwdjFrMXhnYjdpenJrc3k2NmVsMWJvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="100%" style="border-radius: 10px;" />
+</p>
+
 ---
 
-## 🌐 Connect With Me  
-📩 Email: Sunandansumbria@gmail.com  
-🔗 LinkedIn: yourwebsite.com  
+## 🚀 About Me
+
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRlZTZ2YjBmeGV4MXhsbjBlc2I3dnp1MWQyOGRjOXU0d3l5cGJzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aZVOjzbW8cPDm9PQzP/giphy.gif" width="230" />
+
+I am a dedicated **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Express, React, Node.js). I blend creativity with logic to build high-performance web applications. My focus is on **clean code**, **responsive UI/UX**, and **secure backend architecture**.
+
+- 🔭 I’m currently working on a **Medicare Healthcare Platform**.
+- 🛒 I’m looking to collaborate on a **Tactical E-Commerce Store**.
+- ⚡ **Fun fact:** I love turning complex problems into simple designs.
+- 💬 Ask me about **React.js & Database Architecture**.
+
+<br clear="all" />
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend Technologies
+| Name | Logo |
+| :--- | :---: |
+| **HTML5** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/> |
+| **CSS3** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/> |
+| **React.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/> |
+| **Tailwind CSS** | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/> |
+| **Bootstrap** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40"/> |
+
+### ⚙️ Backend & Database
+| Name | Logo |
+| :--- | :---: |
+| **Node.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/> |
+| **Express.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40"/> |
+| **MySQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/> |
+| **MongoDB** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/> |
+
+### 🧰 Tools
+| Name | Logo |
+| :--- | :---: |
+| **Git** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/> |
+| **GitHub** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/> |
+| **VS Code** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40"/> |
+
+<br>
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWI2YTZiOWUzeGlsY3VkNmpkdTFoZDViMDJmNmhrNzB3d28yanF0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YOczfjtC0H0IMBKhRf/giphy.gif" width="350" />
+</div>
+
+<br>
+
+---
+
+## 🧩 Featured Projects
+
+### 🏥 **Medicare Healthcare Platform**
+> A comprehensive management system for doctors and patients featuring real-time dashboards.
+- **Features:** Appointment Booking, Admin Panel, Doctor Profiles, Secure Auth.
+- **Tech:** ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Node](https://img.shields.io/badge/-Node-black?style=flat-square&logo=nodedotjs) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+### 🛒 **Tactical Armory Store** *(Collaboration Open)*
+> A robust e-commerce solution for tactical gear with strict inventory controls.
+- **Features:** Advanced Filtering, Shopping Cart, Admin Controls, Inventory Logic.
+- **Tech:** ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Susu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Susu&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="60%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVpNHZheDE0OXNkY2F0cGlmeTR0OHljNzN2MHRoNW5za3h0d2U0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9igGG6KxpY0eY0Sr5u/giphy.gif" width="350" />
+</div>
+
+<br>
+
+<p align="center">
+  <a href="mailto:Sunandansumbria@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Susu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=100&section=footer"/>
+</p>
