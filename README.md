@@ -1,11 +1,5 @@
-<div align="center">
-  <h1 style="
-    color: #00eaff;
-    text-shadow: 0 0 10px #00eaff, 0 0 20px #00eaff;
-  ">
-    Sunandan Singh
-  </h1>
-</div>
+<h1 align="center" style="color:#00eaff;">Sunandan Singh</h1>
+
 
 
 <p align="center">
