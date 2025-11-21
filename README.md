@@ -108,15 +108,15 @@ A modern medical management system with:
 
 ## 📚 June 2025 Projects
 
-### 🪑 **Furniture Showcasing Website** | GitHub-Link
+### 🪑 **Furniture Showcasing Website**
 Developed an e-commerce furniture platform enabling seamless product browsing and secure online transactions. Implemented user authentication and product management modules, optimizing backend operations and improving data handling efficiency by **30%**. Integrated a structured database to track user activity and transactions, resulting in faster page responses and a **25% increase in user engagement**.  
 **Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, E-commerce.
 
-### ⛅ **Weather Forecast App** | GitHub-Link
+### ⛅ **Weather Forecast App** 
 Built a real-time weather application with a user-friendly and responsive interface. Integrated the **OpenWeatherMap API** for accurate weather data and implemented both city-based and geolocation-based search. Optimized API handling and loading mechanisms, decreasing page load times by **30%** and improving overall experience.  
 **Tech:** HTML, CSS, JavaScript, Bootstrap, OpenWeatherMap API, Responsive Design.
 
-### 🤖 **Job Search Assistant** | GitHub-Link
+### 🤖 **Job Search Assistant** 
 Engineered an **AI-driven chatbot** that matches users with job opportunities based on skills and preferences. Designed NLP-powered conversation flows and integrated job listing APIs for real-time job suggestions. Achieved **90% accuracy**, greatly boosting personalization and efficiency.  
 **Tech:** Python, NLP, Chatbot Framework, Job Listing APIs, UI/UX Design.
 
