@@ -76,13 +76,13 @@ I am a dedicated **Full-Stack Developer** specializing in the **MERN Stack** (Mo
 ## 📈 GitHub Analytics
 
 <div align="center">
-    <a href="Githubto:github.com/sunandanthakur">
-  <img src="https://github-readme-stats.vercel.app/api?username=Susu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Susu&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+    <a href="https://github.com/sunandanthakur">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunandanthakur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunandanthakur&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunandanthakur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="60%" />
 </div>
 
 <br>
@@ -91,7 +91,6 @@ I am a dedicated **Full-Stack Developer** specializing in the **MERN Stack** (Mo
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVpNHZheDE0OXNkY2F0cGlmeTR0OHljNzN2MHRoNW5za3h0d2U0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9igGG6KxpY0eY0Sr5u/giphy.gif" width="350" />
 </div>
 
-<br>
 
 <p align="center">
   <a href="mailto:Sunandansumbria@gmail.com">
