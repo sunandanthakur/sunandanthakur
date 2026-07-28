@@ -5,7 +5,7 @@
 
 <!-- Binary Matrix GIF Under Header (KEEPING YOUR ORIGINAL FEEL) -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRxdXNlbnNoYzF4bHZkeWQwdjFrMXhnYjdpenJrc3k2NmVsMWJvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="100%" style="border-radius: 10px;" />
+  <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRxdXNlbnNoYzF4bHZkeWQwdjFrMXhnYjdpenJrc3k2NmVsMWJvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)" width="100%" style="border-radius: 10px;" />
 </p>
 
 ---
