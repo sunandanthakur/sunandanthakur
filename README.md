@@ -94,7 +94,7 @@ A modern cricket scoring platform that delivers **real-time live scores, match s
 
 ---
 
-## 🥊 UFOStream – UFC Live Streaming
+## 🥊 UFCStream – UFC Live Streaming
 
 A modern streaming platform for **watching UFC live events, fight highlights, upcoming fight schedules, and fighter information**.
 
