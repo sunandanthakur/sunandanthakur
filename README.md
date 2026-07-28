@@ -69,28 +69,57 @@ I’m a passionate **Full Stack Developer** who loves building fast, responsive,
 
 ---
 
-# 🎯 **Featured Projects**
+# 🎯 Featured Projects
 
 <div align="center">
-  <img
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWI2YTZiOWUzeGlsY3VkNmpkdTFoZDViMDJmNmhrNzB3d28yanF0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YOczfjtC0H0IMBKhRf/giphy.gif" width="350" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWI2YTZiOWUzeGlsY3VkNmpkdTFoZDViMDJmNmhrNzB3d28yanF0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YOczfjtC0H0IMBKhRf/giphy.gif" width="350"/>
 </div>
 
-## 🏥 **Medicare Healthcare Platform**
-Complete healthcare SaaS system with interactive analytics, appointments, doctor/user roles, and medical records.
+## 🏏 FunzCric – Live Cricket Scores
 
-✨ *Real-time dashboards, patient management, secured authentication.*
+A modern cricket scoring platform that delivers **real-time live scores, match schedules, scorecards, player statistics, and tournament updates**.
 
-**Tech:** React • Node • MongoDB • Tailwind • JWT
+### ✨ Features
+
+- 🏏 Live cricket scores
+- 📅 Match schedules
+- 📊 Live scorecards
+- 👤 Player statistics
+- 🏆 Tournament standings
+- 📱 Responsive UI
+
+**Tech Stack**
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST API
+- Tailwind CSS
 
 ---
 
-## 🛒 **Tactical Armory Store (Collaboration Open)**
-Premium, secure e-commerce solution for tactical equipment.
+## 🥊 UFOStream – UFC Live Streaming
 
-✨ *Smart filtering, Admin CMS, inventory engine, cart system.*
+A modern streaming platform for **watching UFC live events, fight highlights, upcoming fight schedules, and fighter information**.
 
-**Tech:** React • Redux • MySQL • Node.js
+### ✨ Features
+
+- 📺 Live UFC streaming
+- 🎥 Fight highlights
+- 📅 Upcoming events
+- 🥋 Fighter profiles
+- 🔎 Search fights & events
+- ⚡ Fast responsive interface
+
+**Tech Stack**
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+- Tailwind CSS
 
 ---
 
