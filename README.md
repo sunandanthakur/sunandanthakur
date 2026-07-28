@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=33&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=70&lines=Hi,+I'm+Sunandan+Singh!;Full+Stack+%7C+MERN+Stack+Developer;Open+Source+Contributor;Crafting+High-Performance+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=33&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=70&lines=Hi,+I'm+Sunandan+Singh!;Full+Stack+%7C+MERN+Stack+Developer;Open+Source+Contributor;Crafting+High-Performance+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <!-- Binary Matrix GIF Under Header (KEEPING YOUR ORIGINAL FEEL) -->
