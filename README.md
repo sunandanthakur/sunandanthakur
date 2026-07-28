@@ -2,11 +2,7 @@
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=33&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=70&lines=Hi,+I'm+Sunandan+Singh!;Full+Stack+%7C+MERN+Stack+Developer;Open+Source+Contributor;Crafting+High-Performance+Web+Experiences" alt="Typing SVG" /> </div>
 <br>
 <!-- 🎥 Animated Coding Banner -->
-<<<<<<< HEAD
-<p align="center"> <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="100%" alt="Coding Animation" /> </p>
-=======
 <p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhoaGJ2b2hqNmxiNG5zazF1NWkyeXo3ZTlpdmx5aGlyNm9veDVmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="100%" alt="Coding Animation" /> </p>
->>>>>>> Update GIF link in README
 ---
 
 # 🚀 **About Me**
