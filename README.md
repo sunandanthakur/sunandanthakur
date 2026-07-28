@@ -1,14 +1,8 @@
 <!-- 🌟 Animated Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=33&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=70&lines=Hi,+I'm+Sunandan+Singh!;Full+Stack+%7C+MERN+Stack+Developer;Open+Source+Contributor;Crafting+High-Performance+Web+Experiences" alt="Typing SVG" />
-</div>
-
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=33&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=70&lines=Hi,+I'm+Sunandan+Singh!;Full+Stack+%7C+MERN+Stack+Developer;Open+Source+Contributor;Crafting+High-Performance+Web+Experiences" alt="Typing SVG" /> </div>
 <br>
-
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="100%" alt="Coding Banner">
-</p>
+<!-- 🎥 Animated Coding Banner -->
+<p align="center"> <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="100%" alt="Coding Animation" /> </p>
 ---
 
 # 🚀 **About Me**
